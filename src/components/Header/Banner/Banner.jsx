@@ -1,7 +1,12 @@
+
 import myImage from "../../../assets/Rectangle 4281.png";
+
 
 const Banner = () => {
     return (
+        
+       
+     
         <div className="relative h-[70vh]">
           
             <div className="bg-blue-500 h-[10vh]"></div>
@@ -26,14 +31,17 @@ const Banner = () => {
                     <input
                         type="text"
                         placeholder="Search..."
+                       
                         className="px-9 py-2 mb-2 bg-white text-gray-900 rounded-lg"
                     />
                     <button
+               
                         className="px-4 py-2 bg-[#FF444A] text-white rounded-lg"
                     >
                         Search
                     </button>
                 </div>
+             
             </div>
         </div>
     );
