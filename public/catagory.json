@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "picture": "https://i.ibb.co/D5vth72/Health.png",
+      "title": "Health",
+      "category": "Clean water for children",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FF",
+      "description": "Ensuring that all people have access to good health is paramount for the well-being of a society. Governments play a crucial role in this by investing in healthcare infrastructure, such as hospitals, clinics, and public health programs. They can provide financial assistance to individuals and families who may not afford healthcare services, ensuring that medical care is not a privilege but a basic right.",
+      "price": "$290.00"
+    },
+    {
+      "id": 2,
+      "picture": "https://i.ibb.co/GtHHb2S/Education.png",
+      "title": "Education",
+      "category": "Good education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "$290.00"
+    },
+    {
+      "id": 3,
+      "picture": "https://i.ibb.co/ygtyssm/Clothing.png",
+      "title": "Clothing",
+      "category": "Used Clothing Drive",
+      "category_bg": "#79C23333",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Access to adequate clothing is essential for comfort, protection, and dignity. Governments can support this by implementing policies that promote fair labor practices in the textile and garment industry. Ensuring that workers receive fair wages and safe working conditions is vital.",
+      "price": "$290.00"
+    },
+    {
+      "id": 4,
+      "picture": "https://i.ibb.co/54bxZqn/Food.png",
+      "title": "Food",
+      "category": "Better Food for Everyone",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Access to nutritious food is fundamental for human development. Governments can address this by implementing policies that support affordable and nutritious food options for all citizens. This may include subsidies on essential food items, food assistance programs for low-income families, and regulations to ensure food safety and quality.",
+      "price": "$290.00"
+    },
+    {
+      "id": 5,
+      "picture": "https://i.ibb.co/54bxZqn/Food.png",
+      "title": "Food",
+      "category": "Better Food for Everyone",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Access to nutritious food is fundamental for human development. Governments can address this by implementing policies that support affordable and nutritious food options for all citizens. This may include subsidies on essential food items, food assistance programs for low-income families, and regulations to ensure food safety and quality.",
+      "price": "$290.00"
+    },
+    {
+      "id": 6,
+      "picture": "https://i.ibb.co/ygtyssm/Clothing.png",
+      "title": "Clothing",
+      "category": "Used Clothing Drive",
+      "category_bg": "#79C23333",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Access to adequate clothing is essential for comfort, protection, and dignity. Governments can support this by implementing policies that promote fair labor practices in the textile and garment industry. Ensuring that workers receive fair wages and safe working conditions is vital.",
+      "price": "$290.00"
+    },
+    {
+      "id": 7,
+      "picture": "https://i.ibb.co/GtHHb2S/Education.png",
+      "title": "Education",
+      "category": "Good education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "$290.00"
+    },
+    {
+      "id": 8,
+      "picture": "https://i.ibb.co/D5vth72/Health.png",
+      "title": "Health",
+      "category": "Clean water for children",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FFFF",
+      "description": "Ensuring that all people have access to good health is paramount for the well-being of a society. Governments play a crucial role in this by investing in healthcare infrastructure, such as hospitals, clinics, and public health programs. They can provide financial assistance to individuals and families who may not afford healthcare services, ensuring that medical care is not a privilege but a basic right.",
+      "price": "$290.00"
+    },
+    {
+      "id": 9,
+      "picture": "https://i.ibb.co/D5vth72/Health.png",
+      "title": "Health",
+      "category": "Clean water for children",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_button_bg": "#0052FFFF",
+      "description": "Ensuring that all people have access to good health is paramount for the well-being of a society. Governments play a crucial role in this by investing in healthcare infrastructure, such as hospitals, clinics, and public health programs. They can provide financial assistance to individuals and families who may not afford healthcare services, ensuring that medical care is not a privilege but a basic right.",
+      "price": "$290.00"
+    },
+    {
+      "id": 10,
+      "picture": "https://i.ibb.co/GtHHb2S/Education.png",
+      "title": "Education",
+      "category": "Good education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_button_bg": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "price": "$290.00"
+    },
+    {
+      "id": 11,
+      "picture": "https://i.ibb.co/ygtyssm/Clothing.png",
+      "title": "Clothing",
+      "category": "Used Clothing Drive",
+      "category_bg": "#79C23333",
+      "card_bg": "#79C23F26",
+      "text_button_bg": "#79C23F",
+      "description": "Access to adequate clothing is essential for comfort, protection, and dignity. Governments can support this by implementing policies that promote fair labor practices in the textile and garment industry. Ensuring that workers receive fair wages and safe working conditions is vital.",
+      "price": "$290.00"
+    },
+    {
+      "id": 12,
+      "picture": "https://i.ibb.co/54bxZqn/Food.png",
+      "title": "Food",
+      "category": "Better Food for Everyone",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_button_bg": "#F87147",
+      "description": "Access to nutritious food is fundamental for human development. Governments can address this by implementing policies that support affordable and nutritious food options for all citizens. This may include subsidies on essential food items, food assistance programs for low-income families, and regulations to ensure food safety and quality.",
+      "price": "$290.00"
+    }
+  ]
