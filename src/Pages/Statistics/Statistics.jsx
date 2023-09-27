@@ -43,9 +43,9 @@ console.log(favorites);
 return <div>{noFound ? <p className="h-[80vh] flex justify-center items-center">{noFound}</p>
 :
 <div >
-    <h1 >Your Donation:{totalPrice}</h1>
+    
+<h1 >Your Donation:{totalPrice}</h1>
     <h1>Total donation: 3480</h1>
-   
 
     
    
